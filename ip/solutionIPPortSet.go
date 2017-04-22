@@ -1,4 +1,4 @@
-package go_nsx
+package ip
 
 type LocationInfo struct {
 	Ip   *Ip   `xml:" ip,omitempty" json:"ip,omitempty"`

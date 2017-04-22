@@ -1,4 +1,4 @@
-package go_nsx
+package ip
 
 type Algorithm struct {
 	Text string `xml:",chardata" json:",omitempty"`

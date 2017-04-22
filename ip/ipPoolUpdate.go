@@ -1,4 +1,4 @@
-package go_nsx
+package ip
 
 type DnsServer1 struct {
 	Text string `xml:",chardata" json:",omitempty"`
