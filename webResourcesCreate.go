@@ -13,8 +13,8 @@ type Enabled struct {
 }
 
 type Method struct {
-	Attr_name string `xml:" name,attr"  json:",omitempty"`
-	Data      *Data  `xml:" data,omitempty" json:"data,omitempty"`
+	Name string   `xml:" name,attr"  json:",omitempty"`
+	Data   *Data `xml:" data,omitempty" json:"data,omitempty"`
 }
 
 type Name struct {
