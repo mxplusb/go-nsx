@@ -1,13 +1,5 @@
 package ip
 
-type Description struct {
-	Text string `xml:",chardata" json:",omitempty"`
-}
-
-type Enabled struct {
-	Text string `xml:",chardata" json:",omitempty"`
-}
-
 type Network struct {
 	Text string `xml:",chardata" json:",omitempty"`
 }
@@ -27,7 +19,7 @@ type PrivateNetwork struct {
 	SendOverTunnel *SendOverTunnel `xml:" sendOverTunnel,omitempty" json:"sendOverTunnel,omitempty"`
 }
 
-type Root struct {
+type PrivateNetworkRoot struct {
 	PrivateNetwork *PrivateNetwork `xml:" privateNetwork,omitempty" json:"privateNetwork,omitempty"`
 }
 

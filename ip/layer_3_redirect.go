@@ -19,11 +19,7 @@ type IsValid struct {
 	Text string `xml:",chardata" json:",omitempty"`
 }
 
-type Name struct {
-	Text string `xml:",chardata" json:",omitempty"`
-}
-
-type Root struct {
+type RedirectSectionRoot struct {
 	Section *Section `xml:" section,omitempty" json:"section,omitempty"`
 }
 
@@ -38,6 +34,13 @@ type Rule struct {
 }
 
 type Section struct {
+	Action        *Action        `xml:" action,omitempty" json:"action,omitempty"`
+	AppliedToList *AppliedToList `xml:" appliedToList,omitempty" json:"appliedToList,omitempty"`
+	Name          *Name          `xml:" name,omitempty" json:"name,omitempty"`
+	SectionId     *SectionId     `xml:" sectionId,omitempty" json:"sectionId,omitempty"`
+}
+
+type NewSection struct {
 	GenerationNumber string   `xml:" generationNumber,attr"  json:",omitempty"`
 	Id               string   `xml:" id,attr"  json:",omitempty"`
 	Name             string   `xml:" name,attr"  json:",omitempty"`
@@ -46,13 +49,5 @@ type Section struct {
 }
 
 type SectionId struct {
-	Text string `xml:",chardata" json:",omitempty"`
-}
-
-type Type struct {
-	Text string `xml:",chardata" json:",omitempty"`
-}
-
-type Value struct {
 	Text string `xml:",chardata" json:",omitempty"`
 }

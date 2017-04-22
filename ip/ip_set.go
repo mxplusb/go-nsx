@@ -1,8 +1,4 @@
-package ip
-
-type Description struct {
-	Text string `xml:",chardata" json:",omitempty"`
-}
+﻿package ip
 
 type InheritanceAllowed struct {
 	Text string `xml:",chardata" json:",omitempty"`
