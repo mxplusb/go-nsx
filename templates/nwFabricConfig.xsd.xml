@@ -1,0 +1,6 @@
+<nwFabricFeatureConfig>
+  <featureId>string</featureId>
+  <resourceConfig>
+    <resourceId>string</resourceId>
+  </resourceConfig>
+</nwFabricFeatureConfig>

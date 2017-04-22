@@ -1,0 +1,13 @@
+<section id="string" name="string" generationNumber="string" timestamp="string">
+  <name>string</name>
+  <action>string</action>
+  <appliedToList>
+    <appliedTo>
+      <name>string</name>
+      <value>string</value>
+      <type>string</type>
+      <isValid>string</isValid>
+    </appliedTo>
+  </appliedToList>
+  <sectionId>string</sectionId>
+</section>

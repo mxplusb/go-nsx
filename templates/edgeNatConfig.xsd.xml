@@ -1,0 +1,21 @@
+<nat>
+  <natRules>
+    <natRule>
+      <ruleTag>string</ruleTag>
+      <action>string</action>
+      <vnic>string</vnic>
+      <originalAddress>string</originalAddress>
+      <dnatMatchSourceAddress>string</dnatMatchSourceAddress>
+      <snatMatchDestinationAddress>string</snatMatchDestinationAddress>
+      <translatedAddress>string</translatedAddress>
+      <loggingEnabled>string</loggingEnabled>
+      <enabled>string</enabled>
+      <description>string</description>
+      <protocol>string</protocol>
+      <translatedPort>string</translatedPort>
+      <originalPort>string</originalPort>
+      <dnatMatchSourcePort>string</dnatMatchSourcePort>
+      <snatMatchDestinationPort>string</snatMatchDestinationPort>
+    </natRule>
+  </natRules>
+</nat>

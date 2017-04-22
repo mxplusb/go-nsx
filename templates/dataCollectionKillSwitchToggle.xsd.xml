@@ -1,0 +1,8 @@
+<request>
+  <actions>
+    <action>
+      <type>string</type>
+      <value>string</value>
+    </action>
+  </actions>
+</request>

@@ -1,0 +1,6 @@
+<applicationGroup>
+  <description>string</description>
+  <name>string</name>
+  <revision>string</revision>
+  <inheritanceAllowed>string</inheritanceAllowed>
+</applicationGroup>

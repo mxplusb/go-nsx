@@ -1,0 +1,6 @@
+<securityPolicyHierarchy>
+  <name>string</name>
+  <description>string</description>
+  <securityPolicy>string</securityPolicy>
+  <securityGroup>string</securityGroup>
+</securityPolicyHierarchy>

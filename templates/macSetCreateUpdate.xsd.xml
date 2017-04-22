@@ -1,0 +1,11 @@
+<macset>
+  <objectId>string</objectId>
+  <type>
+    <typeName>string</typeName>
+  </type>
+  <description>string</description>
+  <name>string</name>
+  <revision>string</revision>
+  <objectTypeName>string</objectTypeName>
+  <value>string</value>
+</macset>

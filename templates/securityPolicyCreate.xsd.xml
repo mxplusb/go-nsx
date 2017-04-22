@@ -1,0 +1,42 @@
+<securityPolicy>
+  <name>string</name>
+  <description>string</description>
+  <precedence>string</precedence>
+  <parent>
+    <objectId>string</objectId>
+  </parent>
+  <securityGroupBinding>
+    <objectId>string</objectId>
+  </securityGroupBinding>
+  <actionsByCategory>
+    <category>string</category>
+    <action class="string">
+      <name>string</name>
+      <description>string</description>
+      <category>string</category>
+      <actionType>string</actionType>
+      <isActionEnforced>string</isActionEnforced>
+      <isActive>string</isActive>
+      <isEnabled>string</isEnabled>
+      <secondarySecurityGroup>
+        <objectId>string</objectId>
+      </secondarySecurityGroup>
+      <applications>
+        <application>
+          <objectId>string</objectId>
+        </application>
+        <applicationGroup>
+          <objectId>string</objectId>
+        </applicationGroup>
+      </applications>
+      <logged>string</logged>
+      <scope>
+        <id>string</id>
+        <name>string</name>
+        <objectTypeName>string</objectTypeName>
+      </scope>
+    </action>
+    <direction>string</direction>
+    <outsideSecondaryContainer>string</outsideSecondaryContainer>
+  </actionsByCategory>
+</securityPolicy>

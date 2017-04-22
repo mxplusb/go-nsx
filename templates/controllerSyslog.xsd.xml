@@ -1,0 +1,6 @@
+<controllerSyslogServer>
+  <syslogServer>string</syslogServer>
+  <port>string</port>
+  <protocol>string</protocol>
+  <level>string</level>
+</controllerSyslogServer>

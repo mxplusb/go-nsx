@@ -1,0 +1,26 @@
+<firewallDraft name="string">
+  <description>string</description>
+  <preserve>string</preserve>
+  <mode>string</mode>
+  <config>
+    <contextId>string</contextId>
+    <layer3Sections>
+      <section name="string">
+        <rule id="string" disabled="string" logged="string">
+          <name>string</name>
+          <action>string</action>
+          <precedence>string</precedence>
+        </rule>
+      </section>
+    </layer3Sections>
+    <layer2Sections>
+      <section name="string">
+        <rule id="string" disabled="string" logged="string">
+          <name>string</name>
+          <action>string</action>
+          <precedence>string</precedence>
+        </rule>
+      </section>
+    </layer2Sections>
+  </config>
+</firewallDraft>

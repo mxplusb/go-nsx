@@ -1,0 +1,5 @@
+<dnsClient>
+  <primaryDns>string</primaryDns>
+  <secondaryDns>string</secondaryDns>
+  <domainName>string</domainName>
+</dnsClient>

@@ -1,0 +1,5 @@
+<syslogserver>
+  <syslogServer>string</syslogServer>
+  <port>string</port>
+  <protocol>string</protocol>
+</syslogserver>

@@ -1,0 +1,32 @@
+<applicationGroup>
+  <objectId>string</objectId>
+  <type>
+    <typeName>string</typeName>
+  </type>
+  <name>string</name>
+  <description>string</description>
+  <revision>string</revision>
+  <objectTypeName>string</objectTypeName>
+  <scope>
+    <id>string</id>
+    <objectTypeName>string</objectTypeName>
+    <name>string</name>
+  </scope>
+  <extendedAttributes>string</extendedAttributes>
+  <inheritanceAllowed>string</inheritanceAllowed>
+  <member>
+    <objectId>string</objectId>
+    <type>
+      <typeName>string</typeName>
+    </type>
+    <name>string</name>
+    <revision>string</revision>
+    <objectTypeName>string</objectTypeName>
+    <scope>
+      <id>string</id>
+      <objectTypeName>string</objectTypeName>
+      <name>string</name>
+    </scope>
+    <extendedAttributes>string</extendedAttributes>
+  </member>
+</applicationGroup>

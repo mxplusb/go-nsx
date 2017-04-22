@@ -1,0 +1,18 @@
+<firewallRules>
+    <firewallRule>
+        <ruleTag>string</ruleTag>
+        <name>string</name>
+        <source>
+            <exclude>string</exclude>
+            <ipAddress>string</ipAddress>
+            <groupingObjectId>string</groupingObjectId>
+            <vnicGroupId>string</vnicGroupId>
+        </source>
+        <destination>
+            <exclude>string</exclude>
+            <ipAddress>string</ipAddress>
+            <groupingObjectId>string</groupingObjectId>
+            <vnicGroupId>string</vnicGroupId>
+        </destination>
+    </firewallRule>
+</firewallRules>

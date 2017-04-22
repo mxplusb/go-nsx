@@ -1,0 +1,12 @@
+<user>
+  <userId>string</userId>
+  <password>string</password>
+  <firstName>string</firstName>
+  <lastName>string</lastName>
+  <description>string</description>
+  <disableUserAccount>string</disableUserAccount>
+  <passwordNeverExpires>string</passwordNeverExpires>
+  <allowChangePassword>
+    <changePasswordOnNextLogin>string</changePasswordOnNextLogin>
+  </allowChangePassword>
+</user>

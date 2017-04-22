@@ -1,0 +1,13 @@
+<set>
+  <ClassificationValue>
+    <id>string</id>
+    <classification>
+      <id>string</id>
+      <name>string</name>
+      <providerName>string</providerName>
+      <description>string</description>
+      <customizable>string</customizable>
+    </classification>
+    <value>string</value>
+  </ClassificationValue>
+</set>

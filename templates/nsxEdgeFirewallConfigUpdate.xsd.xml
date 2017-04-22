@@ -1,0 +1,60 @@
+<firewall>
+  <defaultPolicy>
+    <action>string</action>
+    <loggingEnabled>string</loggingEnabled>
+  </defaultPolicy>
+  <enabled>string</enabled>
+  <globalConfig>
+    <tcpPickOngoingConnections>string</tcpPickOngoingConnections>
+    <tcpAllowOutOfWindowPackets>string</tcpAllowOutOfWindowPackets>
+    <tcpSendResetForClosedVsePorts>string</tcpSendResetForClosedVsePorts>
+    <dropInvalidTraffic>string</dropInvalidTraffic>
+    <logInvalidTraffic>string</logInvalidTraffic>
+    <tcpTimeoutOpen>string</tcpTimeoutOpen>
+    <tcpTimeoutEstablished>string</tcpTimeoutEstablished>
+    <tcpTimeoutClose>string</tcpTimeoutClose>
+    <udpTimeout>string</udpTimeout>
+    <icmpTimeout>string</icmpTimeout>
+    <icmp6Timeout>string</icmp6Timeout>
+    <ipGenericTimeout>string</ipGenericTimeout>
+    <enableSynFloodProtection>string</enableSynFloodProtection>
+  </globalConfig>
+  <firewallRules>
+    <firewallRule>
+      <ruleTag>string</ruleTag>
+      <name>string</name>
+      <source>
+        <exclude>string</exclude>
+        <!--Zero or more repetitions:-->
+        <ipAddress>string</ipAddress>
+        <!--Zero or more repetitions:-->
+        <groupingObjectId>string</groupingObjectId>
+        <!--Zero or more repetitions:-->
+        <vnicGroupId>string</vnicGroupId>
+      </source>
+      <destination>
+        <exclude>string</exclude>
+        <!--Zero or more repetitions:-->
+        <ipAddress>string</ipAddress>
+        <!--Zero or more repetitions:-->
+        <groupingObjectId>string</groupingObjectId>
+        <!--Zero or more repetitions:-->
+        <vnicGroupId>string</vnicGroupId>
+      </destination>
+      <application>
+        <applicationId>string</applicationId>
+        <service>
+          <protocol>string</protocol>
+          <port>string</port>
+          <sourcePort>string</sourcePort>
+        </service>
+      </application>
+      <matchTranslated>string</matchTranslated>
+      <direction>string</direction>
+      <action>string</action>
+      <enabled>string</enabled>
+      <loggingEnabled>string</loggingEnabled>
+      <description>string</description>
+    </firewallRule>
+  </firewallRules>
+</firewall>

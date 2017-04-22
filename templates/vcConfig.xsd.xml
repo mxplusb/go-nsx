@@ -1,0 +1,9 @@
+<vcInfo>
+  <ipAddress>string</ipAddress>
+  <userName>string</userName>
+  <password>string</password>
+  <certificateThumbprint>string</certificateThumbprint>
+  <assignRoleToUser>string</assignRoleToUser>
+  <pluginDownloadServer>string</pluginDownloadServer>
+  <pluginDownloadPort>string</pluginDownloadPort>
+</vcInfo>

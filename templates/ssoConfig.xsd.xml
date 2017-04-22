@@ -1,0 +1,6 @@
+<ssoConfig>
+  <ssoLookupServiceUrl>string</ssoLookupServiceUrl>
+  <ssoAdminUsername>string</ssoAdminUsername>
+  <ssoAdminUserpassword>string</ssoAdminUserpassword>
+  <certificateThumbprint>string</certificateThumbprint>
+</ssoConfig>

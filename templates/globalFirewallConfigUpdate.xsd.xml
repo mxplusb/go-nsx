@@ -1,0 +1,15 @@
+<globalConfig>
+  <tcpPickOngoingConnections>string</tcpPickOngoingConnections>
+  <tcpAllowOutOfWindowPackets>string</tcpAllowOutOfWindowPackets>
+  <tcpSendResetForClosedVsePorts>string</tcpSendResetForClosedVsePorts>
+  <dropInvalidTraffic>string</dropInvalidTraffic>
+  <logInvalidTraffic>string</logInvalidTraffic>
+  <tcpTimeoutOpen>string</tcpTimeoutOpen>
+  <tcpTimeoutEstablished>string</tcpTimeoutEstablished>
+  <tcpTimeoutClose>string</tcpTimeoutClose>
+  <udpTimeout>string</udpTimeout>
+  <icmpTimeout>string</icmpTimeout>
+  <icmp6Timeout>string</icmp6Timeout>
+  <ipGenericTimeout>string</ipGenericTimeout>
+  <enableSynFloodProtection>string</enableSynFloodProtection>
+</globalConfig>

@@ -1,0 +1,16 @@
+<pool>
+  <name>string</name>
+  <description>string</description>
+  <transparent>string</transparent>
+  <algorithm>string</algorithm>
+  <monitorId>string</monitorId>
+  <member>
+    <ipAddress>string</ipAddress>
+    <weight>string</weight>
+    <port>string</port>
+    <minConn>string</minConn>
+    <maxConn>string</maxConn>
+    <name>string</name>
+    <monitorPort>string</monitorPort>
+  </member>
+</pool>

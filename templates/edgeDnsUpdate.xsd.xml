@@ -1,0 +1,13 @@
+<dns>
+    <version>string</version>
+    <enabled>string</enabled>
+    <cacheSize>string</cacheSize>
+    <listeners>
+        <ipAddress>string</ipAddress>
+    </listeners>
+    <dnsViews>
+        <dnsView>
+            <viewId>string</viewId>
+        </dnsView>
+    </dnsViews>
+</dns>

@@ -1,0 +1,9 @@
+<privateNetwork>
+  <description>string</description>
+  <network>string</network>
+  <sendOverTunnel>
+    <ports>string</ports>
+    <optimize>string</optimize>
+  </sendOverTunnel>
+  <enabled>string</enabled>
+</privateNetwork>

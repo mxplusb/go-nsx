@@ -1,0 +1,14 @@
+<clusterDeploymentConfigs>
+  <clusterDeploymentConfig>
+    <clusterId>string</clusterId>
+    <datastore>string</datastore>
+    <services>
+      <serviceDeploymentConfig>
+        <serviceId>string</serviceId>
+        <serviceInstanceId>string</serviceInstanceId>
+        <dvPortGroup>string</dvPortGroup>
+        <ipPool>string</ipPool>
+      </serviceDeploymentConfig>
+    </services>
+  </clusterDeploymentConfig>
+</clusterDeploymentConfigs>

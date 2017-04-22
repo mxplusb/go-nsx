@@ -1,0 +1,11 @@
+<eventThresholds>
+  <cpu>
+    <percentValue>string</percentValue>
+  </cpu>
+  <memory>
+    <percentValue>string</percentValue>
+  </memory>
+  <connectionsPerSecond>
+    <value>string</value>
+  </connectionsPerSecond>
+</eventThresholds>

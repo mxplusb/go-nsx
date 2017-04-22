@@ -1,0 +1,11 @@
+<layout>
+  <portalTitle>string</portalTitle>
+  <companyName>string</companyName>
+  <logoBackgroundColor>string</logoBackgroundColor>
+  <titleColor>string</titleColor>
+  <topFrameColor>string</topFrameColor>
+  <menuBarColor>string</menuBarColor>
+  <rowAlternativeColor>string</rowAlternativeColor>
+  <bodyColor>string</bodyColor>
+  <rowColor>string</rowColor>
+</layout>

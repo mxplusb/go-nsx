@@ -1,0 +1,21 @@
+<appliance>
+  <haAdminState>string</haAdminState>
+  <resourcePoolId>string</resourcePoolId>
+  <datastoreId>string</datastoreId>
+  <hostId>string</hostId>
+  <vmFolderId>string</vmFolderId>
+  <customField>
+    <key>string</key>
+    <value>string</value>
+  </customField>
+  <cpuReservation>
+    <limit>string</limit>
+    <reservation>string</reservation>
+    <shares>string</shares>
+  </cpuReservation>
+  <memoryReservation>
+    <limit>string</limit>
+    <reservation>string</reservation>
+    <shares>string</shares>
+  </memoryReservation>
+</appliance>

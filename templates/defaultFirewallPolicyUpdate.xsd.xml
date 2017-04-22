@@ -1,0 +1,4 @@
+<firewallDefaultPolicy>
+  <action>string</action>
+  <loggingEnabled>string</loggingEnabled>
+</firewallDefaultPolicy>

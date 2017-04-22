@@ -1,0 +1,6 @@
+<virtualWireCreateSpec>
+  <name>string</name>
+  <description>string</description>
+  <tenantId>string</tenantId>
+  <controlPlaneMode>string</controlPlaneMode>
+</virtualWireCreateSpec>

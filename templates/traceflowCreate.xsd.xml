@@ -1,0 +1,17 @@
+<traceflowRequest>
+  <vmnicId>string</vmnicId>
+  <timeout>string</timeout>
+  <routed>string</routed>
+  <packet>string</packet>
+  <resourceType>string</resourceType>
+  <ethHeader>
+    <srcMac>string</srcMac>
+    <dstMac>string</dstMac>
+    <ethType>string</ethType>
+  </ethHeader>
+  <ipHeader>
+    <ttl>string</ttl>
+    <srcIp>string</srcIp>
+    <dstIp>string</dstIp>
+  </ipHeader>
+</traceflowRequest>

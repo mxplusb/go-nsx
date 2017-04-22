@@ -1,0 +1,7 @@
+<timeSettings>
+  <ntpServer>
+    <string>string</string>
+  </ntpServer>
+  <datetime>string</datetime>
+  <timezone>string</timezone>
+</timeSettings>

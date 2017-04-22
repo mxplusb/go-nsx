@@ -1,0 +1,23 @@
+<ipamAddressPool>
+  <objectId>string</objectId>
+  <objectTypeName>string</objectTypeName>
+  <vsmUuid>string</vsmUuid>
+  <revision>string</revision>
+  <type>
+    <typeName>string</typeName>
+  </type>
+  <name>string</name>
+  <extendedAttributes>string</extendedAttributes>
+  <prefixLength>string</prefixLength>
+  <gateway>string</gateway>
+  <dnsSuffix>string</dnsSuffix>
+  <dnsServer1>string</dnsServer1>
+  <dnsServer2>string</dnsServer2>
+  <ipRanges>
+    <ipRangeDto>
+      <id>string</id>
+      <startAddress>string</startAddress>
+      <endAddress>string</endAddress>
+    </ipRangeDto>
+  </ipRanges>
+</ipamAddressPool>

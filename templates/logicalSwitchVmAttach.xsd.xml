@@ -1,0 +1,5 @@
+<com.vmware.vshield.vsm.inventory.dto.VnicDto>
+  <objectId>string</objectId>
+  <vnicUuid>string</vnicUuid>
+  <portgroupId>string</portgroupId>
+</com.vmware.vshield.vsm.inventory.dto.VnicDto>

@@ -1,0 +1,13 @@
+<vdsContext>
+  <switch>
+    <objectId>string</objectId>
+    <type>
+      <typeName>string</typeName>
+    </type>
+    <name>string</name>
+    <revision>string</revision>
+    <objectTypeName>string</objectTypeName>
+  </switch>
+  <teaming>string</teaming>
+  <mtu>string</mtu>
+</vdsContext>

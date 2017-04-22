@@ -1,0 +1,7 @@
+<nsxManagerInfo>
+  <nsxManagerIp>string</nsxManagerIp>
+  <nsxManagerUsername>string</nsxManagerUsername>
+  <nsxManagerPassword>string</nsxManagerPassword>
+  <certificateThumbprint>string</certificateThumbprint>
+  <isPrimary>string</isPrimary>
+</nsxManagerInfo>

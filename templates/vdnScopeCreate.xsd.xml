@@ -1,0 +1,12 @@
+<vdnScope>
+  <name>string</name>
+  <clusters>
+    <cluster>
+      <cluster>
+        <objectId>string</objectId>
+      </cluster>
+    </cluster>
+  </clusters>
+  <controlPlaneMode>string</controlPlaneMode>
+  <description>string</description>
+</vdnScope>

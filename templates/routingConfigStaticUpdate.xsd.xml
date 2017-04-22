@@ -1,0 +1,17 @@
+<staticRouting>
+  <staticRoutes>
+    <route>
+      <description>string</description>
+      <vnic>string</vnic>
+      <network>string</network>
+      <nextHop>string</nextHop>
+      <mtu>string</mtu>
+    </route>
+  </staticRoutes>
+  <defaultRoute>
+    <description>string</description>
+    <vnic>string</vnic>
+    <gatewayAddress>string</gatewayAddress>
+    <mtu>string</mtu>
+  </defaultRoute>
+</staticRouting>

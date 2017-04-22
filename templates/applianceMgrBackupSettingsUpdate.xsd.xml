@@ -1,0 +1,24 @@
+<backupRestoreSettings>
+  <ftpSettings>
+    <transferProtocol>string</transferProtocol>
+    <hostNameIPAddress>string</hostNameIPAddress>
+    <port>string</port>
+    <userName>string</userName>
+    <password>string</password>
+    <backupDirectory>string</backupDirectory>
+    <filenamePrefix>string</filenamePrefix>
+    <passPhrase>string</passPhrase>
+    <passiveMode>string</passiveMode>
+    <useEPRT>string</useEPRT>
+    <useEPSV>string</useEPSV>
+  </ftpSettings>
+  <backupFrequency>
+    <frequency>string</frequency>
+    <dayOfWeek>string</dayOfWeek>
+    <hourOfDay>string</hourOfDay>
+    <minuteOfHour>string</minuteOfHour>
+  </backupFrequency>
+  <excludeTables>
+    <excludeTable>string</excludeTable>
+  </excludeTables>
+</backupRestoreSettings>

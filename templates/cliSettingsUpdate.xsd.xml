@@ -1,0 +1,7 @@
+<cliSettings>
+  <userName>string</userName>
+  <password>string</password>
+  <remoteAccess>string</remoteAccess>
+  <passwordExpiry>string</passwordExpiry>
+  <sshLoginBannerText>string</sshLoginBannerText>
+</cliSettings>

@@ -1,0 +1,9 @@
+<monitor>
+  <type>string</type>
+  <interval>string</interval>
+  <timeout>string</timeout>
+  <maxRetries>string</maxRetries>
+  <method>string</method>
+  <url>string</url>
+  <name>string</name>
+</monitor>

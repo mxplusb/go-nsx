@@ -1,0 +1,6 @@
+<multicastRange>
+  <name>string</name>
+  <desc>string</desc>
+  <begin>string</begin>
+  <end>string</end>
+</multicastRange>

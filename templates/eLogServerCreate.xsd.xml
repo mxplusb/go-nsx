@@ -1,0 +1,6 @@
+<EventlogServer>
+  <id>string</id>
+  <domainId>string</domainId>
+  <hostName>string</hostName>
+  <enabled>string</enabled>
+</EventlogServer>

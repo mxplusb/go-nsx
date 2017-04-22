@@ -1,0 +1,7 @@
+<DirectoryDomain>
+  <name>string</name>
+  <type>string</type>
+  <netbiosName>string</netbiosName>
+  <username>string</username>
+  <password>string</password>
+</DirectoryDomain>

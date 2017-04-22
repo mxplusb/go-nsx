@@ -1,0 +1,15 @@
+<interfaces>
+  <interface>
+    <name>string</name>
+    <addressGroups>
+      <addressGroup>
+        <primaryAddress>string</primaryAddress>
+        <subnetMask>string</subnetMask>
+      </addressGroup>
+    </addressGroups>
+    <mtu>string</mtu>
+    <type>string</type>
+    <isConnected>string</isConnected>
+    <connectedToId>string</connectedToId>
+  </interface>
+</interfaces>

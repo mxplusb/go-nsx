@@ -1,0 +1,8 @@
+<networkFeatureConfig>
+  <ipDiscoveryConfig>
+    <enabled>string</enabled>
+  </ipDiscoveryConfig>
+  <macLearningConfig>
+    <enabled>string</enabled>
+  </macLearningConfig>
+</networkFeatureConfig>

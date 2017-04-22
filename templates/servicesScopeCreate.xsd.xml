@@ -1,0 +1,14 @@
+<application>
+  <objectId>string</objectId>
+  <type>
+    <typeName>string</typeName>
+  </type>
+  <description>string</description>
+  <name>string</name>
+  <revision>2</revision>
+  <objectTypeName>string</objectTypeName>
+  <element>
+    <applicationProtocol>string</applicationProtocol>
+    <value>string</value>
+  </element>
+</application>

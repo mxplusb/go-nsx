@@ -1,0 +1,18 @@
+<spoofguardList>
+  <spoofguard>
+    <id>string</id>
+    <vnicUuid>string</vnicUuid>
+    <approvedIpAddress>
+      <ipAddress>string</ipAddress>
+    </approvedIpAddress>
+    <approvedMacAddress>string</approvedMacAddress>
+    <approvedBy>string</approvedBy>
+    <approvedOn>string</approvedOn>
+    <publishedIpAddress>
+      <ipAddress>string</ipAddress>
+    </publishedIpAddress>
+    <publishedMacAddress>string</publishedMacAddress>
+    <publishedBy>string</publishedBy>
+    <publishedOn>string</publishedOn>
+  </spoofguard>
+</spoofguardList>

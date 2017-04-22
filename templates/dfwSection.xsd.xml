@@ -1,0 +1,49 @@
+<section name="string" managedBy="string" type="string">
+  <!--Zero or more repetitions:-->
+  <rule disabled="string" logged="string">
+    e
+    <name>string</name>
+    gero
+    <action>string</action>
+    cum
+    <!--Optional:-->
+    <appliedToList>
+      <appliedTo>
+        <name>string</name>
+        <value>string</value>
+        <type>string</type>
+        <isValid>string</isValid>
+      </appliedTo>
+    </appliedToList>
+    sonoras
+    <!--Optional:-->
+    <sources excluded="string">
+      <source>
+        <name>string</name>
+        <value>string</value>
+        <type>string</type>
+        <isValid>string</isValid>
+      </source>
+    </sources>
+    aeoliam
+    <!--Optional:-->
+    <destinations excluded="string">
+      <destination>
+        <name>string</name>
+        <value>string</value>
+        <type>string</type>
+        <isValid>string</isValid>
+      </destination>
+    </destinations>
+    quae
+    <!--Optional:-->
+    <services>
+      <service>
+        <destinationPort>string</destinationPort>
+        <protocol>string</protocol>
+        <subProtocol>string</subProtocol>
+      </service>
+    </services>
+    ventos
+  </rule>
+</section>

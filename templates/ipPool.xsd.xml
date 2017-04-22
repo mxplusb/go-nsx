@@ -1,0 +1,14 @@
+<ipamAddressPool>
+  <name>string</name>
+  <prefixLength>string</prefixLength>
+  <gateway>string</gateway>
+  <dnsSuffix>string</dnsSuffix>
+  <dnsServer1>string</dnsServer1>
+  <dnsServer2>string</dnsServer2>
+  <ipRanges>
+    <ipRangeDto>
+      <startAddress>string</startAddress>
+      <endAddress>string</endAddress>
+    </ipRangeDto>
+  </ipRanges>
+</ipamAddressPool>

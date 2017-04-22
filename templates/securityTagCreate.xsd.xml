@@ -1,0 +1,10 @@
+<securityTag>
+  <objectTypeName>string</objectTypeName>
+  <type>
+    <typeName>string</typeName>
+  </type>
+  <name>string</name>
+  <isUniversal>false</isUniversal>
+  <description>string</description>
+  <extendedAttributes>string</extendedAttributes>
+</securityTag>

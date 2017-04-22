@@ -1,0 +1,12 @@
+<advancedConfig>
+  <enableCompression>string</enableCompression>
+  <forceVirtualKeyboard>string</forceVirtualKeyboard>
+  <preventMultipleLogon>string</preventMultipleLogon>
+  <randomizeVirtualkeys>string</randomizeVirtualkeys>
+  <timeout>
+    <forcedTimeout>string</forcedTimeout>
+    <sessionIdleTimeout>string</sessionIdleTimeout>
+  </timeout>
+  <clientNotification>string</clientNotification>
+  <enableLogging>string</enableLogging>
+</advancedConfig>

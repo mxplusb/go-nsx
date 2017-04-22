@@ -1,0 +1,4 @@
+<autoConfiguration>
+  <enabled>string</enabled>
+  <rulePriority>string</rulePriority>
+</autoConfiguration>

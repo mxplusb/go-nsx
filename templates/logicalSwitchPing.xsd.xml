@@ -1,0 +1,15 @@
+<testParameters>
+  <gateway>string</gateway>
+  <packetSizeMode>string</packetSizeMode>
+  <packetSize>string</packetSize>
+  <sourceHost>
+    <hostId>string</hostId>
+    <switd>string</switd>
+    <vlanId>string</vlanId>
+  </sourceHost>
+  <destinationHost>
+    <hostId>string</hostId>
+    <switd>string</switd>
+    <vlanId>string</vlanId>
+  </destinationHost>
+</testParameters>

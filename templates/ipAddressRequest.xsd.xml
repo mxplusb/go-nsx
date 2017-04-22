@@ -1,0 +1,4 @@
+<ipAddressRequest>
+  <allocationMode>string</allocationMode>
+  <ipAddress>string</ipAddress>
+</ipAddressRequest>

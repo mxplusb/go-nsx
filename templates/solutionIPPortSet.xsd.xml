@@ -1,0 +1,4 @@
+<LocationInfo>
+  <ip>string</ip>
+  <port>string</port>
+</LocationInfo>

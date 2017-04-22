@@ -1,0 +1,5 @@
+<LDAPServer>
+  <domainId>string</domainId>
+  <hostName>string</hostName>
+  <enabled>string</enabled>
+</LDAPServer>

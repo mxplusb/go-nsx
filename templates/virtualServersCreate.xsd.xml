@@ -1,0 +1,15 @@
+<virtualServer>
+  <name>string</name>
+  <description>string</description>
+  <enabled>false</enabled>
+  <ipAddress>string</ipAddress>
+  <protocol>string</protocol>
+  <port>string</port>
+  <connectionLimit>10</connectionLimit>
+  <connectionRateLimit>10</connectionRateLimit>
+  <applicationProfileId>string</applicationProfileId>
+  <defaultPoolId>string</defaultPoolId>
+  <enableServiceInsertion>string</enableServiceInsertion>
+  <accelerationEnabled>true</accelerationEnabled>
+  <applicationRuleId>string</applicationRuleId>
+</virtualServer>

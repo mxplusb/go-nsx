@@ -1,0 +1,10 @@
+<applicationProfile>
+  <name>string</name>
+  <insertXForwardedFor>string</insertXForwardedFor>
+  <sslPassthrough>string</sslPassthrough>
+  <persistence>
+    <method>string</method>
+    <cookieName>string</cookieName>
+    <cookieMode>string</cookieMode>
+  </persistence>
+</applicationProfile>

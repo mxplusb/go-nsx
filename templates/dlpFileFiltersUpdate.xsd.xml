@@ -1,0 +1,6 @@
+<FileFilters>
+  <scanAllFiles>string</scanAllFiles>
+  <lastModifiedAfter>string</lastModifiedAfter>
+  <extensionsIncluded>string</extensionsIncluded>
+  <extensions>string</extensions>
+</FileFilters>

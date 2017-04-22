@@ -1,0 +1,9 @@
+<highAvailability>
+  <vnic>string</vnic>
+  <ipAddresses>
+    <!--Zero or more repetitions:-->
+    <ipAddress>string</ipAddress>
+  </ipAddresses>
+  <declareDeadTime>string</declareDeadTime>
+  <enabled>string</enabled>
+</highAvailability>

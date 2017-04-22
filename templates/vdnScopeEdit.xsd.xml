@@ -1,0 +1,10 @@
+<vdnScope>
+  <objectId>string</objectId>
+  <clusters>
+    <cluster>
+      <cluster>
+        <objectId>string</objectId>
+      </cluster>
+    </cluster>
+  </clusters>
+</vdnScope>

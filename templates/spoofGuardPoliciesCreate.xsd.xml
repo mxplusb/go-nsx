@@ -1,0 +1,11 @@
+<spoofguardPolicy>
+  <name>string</name>
+  <description>string</description>
+  <operationMode>string</operationMode>
+  <enforcementPoint>
+    <id>string</id>
+    <name>string</name>
+    <type>string</type>
+  </enforcementPoint>
+  <allowLocalIPs>string</allowLocalIPs>
+</spoofguardPolicy>

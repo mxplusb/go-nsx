@@ -1,0 +1,10 @@
+<ipfixConfiguration>
+  <contextId>string</contextId>
+  <ipfixEnabled>string</ipfixEnabled>
+  <observationDomainId>string</observationDomainId>
+  <flowTimeout>string</flowTimeout>
+  <collector>
+    <ip>string</ip>
+    <port>string</port>
+  </collector>
+</ipfixConfiguration>

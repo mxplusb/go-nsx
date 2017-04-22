@@ -1,0 +1,6 @@
+<globalConfiguration>
+  <layer3RuleOptimize>false</layer3RuleOptimize>
+  <layer2RuleOptimize>true</layer2RuleOptimize>
+  <tcpStrictOption>true</tcpStrictOption>
+  <autoDraftDisabled>true</autoDraftDisabled>
+</globalConfiguration>

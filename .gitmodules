@@ -1,0 +1,3 @@
+[submodule "nsx-schemas"]
+	path = nsx-schemas
+	url = https://github.com/vmware/nsxraml

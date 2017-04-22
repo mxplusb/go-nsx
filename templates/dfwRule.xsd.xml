@@ -1,0 +1,32 @@
+<rule disabled="string" logged="string">
+  <name>string</name>
+  <action>string</action>
+  <notes>string</notes>
+  <appliedToList>
+    <appliedTo>
+      <value>string</value>
+      <type>string</type>
+    </appliedTo>
+  </appliedToList>
+  <sources excluded="string">
+    <source>
+      <name>string</name>
+      <value>string</value>
+      <type>string</type>
+      <isValid>string</isValid>
+    </source>
+  </sources>
+  <destinations excluded="string">
+    <destination>
+      <name>string</name>
+      <value>string</value>
+      <type>string</type>
+      <isValid>string</isValid>
+    </destination>
+  </destinations>
+  <services>
+    <service>
+      <value>string</value>
+    </service>
+  </services>
+</rule>

@@ -1,0 +1,9 @@
+<webResource>
+  <name>string</name>
+  <url>string</url>
+  <method name="string">
+    <data>string</data>
+  </method>
+  <description>string</description>
+  <enabled>string</enabled>
+</webResource>

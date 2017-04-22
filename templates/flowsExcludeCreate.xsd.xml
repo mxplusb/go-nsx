@@ -1,0 +1,22 @@
+<FlowConfiguration>
+  <collectFlows>string</collectFlows>
+  <ignoreBlockedFlows>string</ignoreBlockedFlows>
+  <ignoreLayer2Flows>string</ignoreLayer2Flows>
+  <sourceIPs>string</sourceIPs>
+  <sourceContainer>
+    <name>string</name>
+    <id>string</id>
+    <type>string</type>
+  </sourceContainer>
+  <destinationIPs>string</destinationIPs>
+  <destinationContainer>
+    <name>string</name>
+    <id>string</id>
+    <type>string</type>
+  </destinationContainer>
+  <destinationPorts>string</destinationPorts>
+  <service>
+    <name>string</name>
+    <id>string</id>
+  </service>
+</FlowConfiguration>

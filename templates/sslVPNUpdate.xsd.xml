@@ -1,0 +1,9 @@
+<logonLogoffScript>
+  <logonLogoffScript>
+    <objectId>string</objectId>
+    <scriptFileId>string</scriptFileId>
+    <type>string</type>
+    <enabled>string</enabled>
+    <description>string</description>
+  </logonLogoffScript>
+</logonLogoffScript>

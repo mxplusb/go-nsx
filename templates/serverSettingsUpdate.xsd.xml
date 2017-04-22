@@ -1,0 +1,10 @@
+<serverSettings>
+  <serverAddresses>
+    <ipAddress>string</ipAddress>
+  </serverAddresses>
+  <port>string</port>
+  <certificateId>string</certificateId>
+  <sslVersionList>
+    <version>string</version>
+  </sslVersionList>
+</serverSettings>

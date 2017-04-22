@@ -1,0 +1,14 @@
+<relay>
+  <relayServer>
+    <!--Zero or more repetitions:-->
+    <groupingObjectId>string</groupingObjectId>
+    <ipAddress>string</ipAddress>
+    <fqdn>string</fqdn>
+  </relayServer>
+  <relayAgents>
+    <relayAgent>
+      <vnicIndex>string</vnicIndex>
+      <giAddress>string</giAddress>
+    </relayAgent>
+  </relayAgents>
+</relay>

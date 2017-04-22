@@ -1,0 +1,6 @@
+<nsxManagerInfo>
+  <uuid>string</uuid>
+  <nsxManagerIp>string</nsxManagerIp>
+  <certificateThumbprint>string</certificateThumbprint>
+  <isPrimary>string</isPrimary>
+</nsxManagerInfo>

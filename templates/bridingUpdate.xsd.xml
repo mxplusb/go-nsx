@@ -1,0 +1,9 @@
+<bridges>
+  <version>string</version>
+  <enabled>string</enabled>
+  <bridge>
+    <name>string</name>
+    <virtualWire>string</virtualWire>
+    <dvportGroup>string</dvportGroup>
+  </bridge>
+</bridges>

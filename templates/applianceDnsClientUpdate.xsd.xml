@@ -1,0 +1,5 @@
+<dns>
+  <ipv4Address>string</ipv4Address>
+  <ipv6Address>string</ipv6Address>
+  <domainList>string</domainList>
+</dns>

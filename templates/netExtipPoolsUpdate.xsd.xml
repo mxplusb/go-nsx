@@ -1,0 +1,11 @@
+<ipAddressPool>
+  <description>string</description>
+  <ipRange>string</ipRange>
+  <netmask>string</netmask>
+  <gateway>string</gateway>
+  <primaryDns>string</primaryDns>
+  <secondaryDns>string</secondaryDns>
+  <dnsSuffix>string</dnsSuffix>
+  <winsServer>string</winsServer>
+  <enabled>string</enabled>
+</ipAddressPool>

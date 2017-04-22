@@ -1,0 +1,31 @@
+<firewallRule>
+  <ruleTag>string</ruleTag>
+  <name>string</name>
+  <source>
+    <exclude>string</exclude>
+    <!--Zero or more repetitions:-->
+    <ipAddress>string</ipAddress>
+    <!--Zero or more repetitions:-->
+    <groupingObjectId>string</groupingObjectId>
+    <!--Zero or more repetitions:-->
+    <vnicGroupId>string</vnicGroupId>
+  </source>
+  <destination>
+    <exclude>string</exclude>
+    <!--Zero or more repetitions:-->
+    <ipAddress>string</ipAddress>
+    <!--Zero or more repetitions:-->
+    <groupingObjectId>string</groupingObjectId>
+    <!--Zero or more repetitions:-->
+    <vnicGroupId>string</vnicGroupId>
+  </destination>
+  <application>
+    <applicationId>string</applicationId>
+  </application>
+  <matchTranslated>string</matchTranslated>
+  <direction>string</direction>
+  <action>string</action>
+  <enabled>string</enabled>
+  <loggingEnabled>string</loggingEnabled>
+  <description>string</description>
+</firewallRule>

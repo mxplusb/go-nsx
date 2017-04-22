@@ -1,0 +1,10 @@
+<mgmtInterface>
+  <addressGroups>
+    <addressGroup>
+      <primaryAddress>string</primaryAddress>
+      <subnetMask>string</subnetMask>
+    </addressGroup>
+  </addressGroups>
+  <mtu>string</mtu>
+  <connectedToId>string</connectedToId>
+</mgmtInterface>

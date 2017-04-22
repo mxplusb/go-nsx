@@ -1,0 +1,19 @@
+<securitygroup>
+  <objectId>string</objectId>
+  <objectTypeName>string</objectTypeName>
+  <revision>string</revision>
+  <type>
+    <typeName>string</typeName>
+  </type>
+  <name>string</name>
+  <scope>
+    <id>string</id>
+    <objectTypeName>string</objectTypeName>
+    <name>string</name>
+    <revision>string</revision>
+  </scope>
+  <clientHandle>string</clientHandle>
+  <extendedAttributes>string</extendedAttributes>
+  <isUniversal>string</isUniversal>
+  <inheritanceAllowed>string</inheritanceAllowed>
+</securitygroup>

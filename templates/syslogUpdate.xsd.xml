@@ -1,0 +1,6 @@
+<syslog>
+  <protocol>string</protocol>
+  <serverAddresses>
+    <ipAddress>string</ipAddress>
+  </serverAddresses>
+</syslog>

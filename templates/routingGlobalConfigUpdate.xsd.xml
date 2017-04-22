@@ -1,0 +1,14 @@
+<routingGlobalConfig>
+  <routerId>string</routerId>
+  <ecmp>string</ecmp>
+  <logging>
+    <enable>string</enable>
+    <logLevel>string</logLevel>
+  </logging>
+  <ipPrefixes>
+    <ipPrefix>
+      <name>string</name>
+      <ipAddress>string</ipAddress>
+    </ipPrefix>
+  </ipPrefixes>
+</routingGlobalConfig>

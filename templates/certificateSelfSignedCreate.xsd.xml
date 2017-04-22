@@ -1,0 +1,5 @@
+<trustObject>
+  <pemEncoding>string</pemEncoding>
+  <privateKey>string</privateKey>
+  <passphrase>string</passphrase>
+</trustObject>

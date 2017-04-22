@@ -1,0 +1,8 @@
+<clientConfiguration>
+  <autoReconnect>string</autoReconnect>
+  <fullTunnel>
+    <excludeLocalSubnets>string</excludeLocalSubnets>
+    <gatewayIp>string</gatewayIp>
+  </fullTunnel>
+  <upgradeNotification>string</upgradeNotification>
+</clientConfiguration>

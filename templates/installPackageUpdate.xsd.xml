@@ -1,0 +1,21 @@
+<clientInstallPackage>
+  <profileName>string</profileName>
+  <gatewayList>
+    <gateway>
+      <hostName>string</hostName>
+      <port>string</port>
+    </gateway>
+  </gatewayList>
+  <startClientOnLogon>string</startClientOnLogon>
+  <hideSystrayIcon>string</hideSystrayIcon>
+  <rememberPassword>string</rememberPassword>
+  <silentModeOperation>string</silentModeOperation>
+  <silentModeInstallation>string</silentModeInstallation>
+  <hideNetworkAdaptor>string</hideNetworkAdaptor>
+  <createDesktopIcon>string</createDesktopIcon>
+  <enforceServerSecurityCertValidation>string</enforceServerSecurityCertValidation>
+  <createLinuxClient>string</createLinuxClient>
+  <createMacClient>string</createMacClient>
+  <description>string</description>
+  <enabled>string</enabled>
+</clientInstallPackage>

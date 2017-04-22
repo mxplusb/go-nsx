@@ -1,0 +1,10 @@
+<csr>
+  <subject>
+    <attribute>
+      <key>string</key>
+      <value>string</value>
+    </attribute>
+  </subject>
+  <algorithm>string</algorithm>
+  <keySize>string</keySize>
+</csr>

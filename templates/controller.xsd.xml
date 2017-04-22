@@ -1,0 +1,11 @@
+<controllerSpec>
+  <name>string</name>
+  <description>string</description>
+  <ipPoolId>string</ipPoolId>
+  <resourcePoolId>string</resourcePoolId>
+  <hostId>string</hostId>
+  <datastoreId>string</datastoreId>
+  <deployType>string</deployType>
+  <networkId>string</networkId>
+  <password>string</password>
+</controllerSpec>
